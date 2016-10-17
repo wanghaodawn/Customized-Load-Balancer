@@ -1,0 +1,17 @@
+
+Code for Project 2.2
+	by Hao Wang - haow2
+
+These files are in /src/main/java/:
+	AzureVMApiDemo.java
+	DataCenterInstance.java
+	LoadBalancer.java
+	Main.java
+	Request.java
+	RequestHandler.java
+	Response.java
+	ResponseBuilder.java
+
+These files are used locally only to create instances:
+	AzureVMApiDemo.java
+	CreateInstances.java
